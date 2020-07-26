@@ -1,2 +1,2 @@
-# calculator-ceb
-Simple Calculator JS
+# CEB Javascript Project
+Calculator with basic HTML, CSS, and JavaScript
